@@ -2,8 +2,8 @@ from socket import *
 from time import sleep
 import base64
 
-username = '554475362@qq.com'
-auth_code = 'ihrcsysdpfgkbcji'
+username = '********@qq.com'
+auth_code = '****************'
 mail_server = 'smtp.qq.com'
 port = 25
 BUF_SIZE = 1024
@@ -119,5 +119,5 @@ class Email:
 
 
 if __name__ == '__main__':
-    email = Email("821403039@qq.com")
-    email.send_email(img='DSC_1460.jpg')
+    email = Email("********@qq.com")
+    email.send_email(img='img.jpg')
