@@ -29,9 +29,9 @@ SMTP定义了邮件客户端与SMTP 服务器之间，以及两台SMTP 服务器
 
 SMTP协议为一问一答的形式，所以对整个过程的中客户端收到的应答进行打印，结果如下，可以看到整个过程的所有连接接收到正确的应答。
 
-![image-20201230020442584](E:\Recent\SMTPEmail\README.assets\image-20201230020442584.png)
+![image-20201230020442584](https://github.com/Thooooor/SMTPEmail/blob/master/README.assets/image-20201230020442584.png?raw=true)
 
 最终在邮箱收到发送的邮件，包含标题、文字内容和图片附件。
 
-![image-20201230020630267](E:\Recent\SMTPEmail\README.assets\image-20201230020630267.png)
+![image-20201230020630267](https://github.com/Thooooor/SMTPEmail/blob/master/README.assets/image-20201230020630267.png?raw=true)
 
